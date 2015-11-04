@@ -16,9 +16,9 @@ docker run -it -p 8080:8080 pentaho:6.0
 ```
 
 The images have also been pushed to Docker Hub:
-```
+
 https://hub.docker.com/r/pentaho/biserver/
-```
+
 
 These can be run without doing a local build:
 ```
